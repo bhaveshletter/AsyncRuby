@@ -1,5 +1,6 @@
 # AsyncRuby `` Ruby -v 2.6.3 ``
-#### Excute via below command inside AsyncRuby
+**Purpose:** Make multiple http api calls asynchronously via multi threading.     
+**Outcome:** Very fast response in place of slow response by traditional synchronous http calls.    
 
 ruby AsyncRuby.rb
 
